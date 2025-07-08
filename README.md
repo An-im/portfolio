@@ -1,6 +1,6 @@
 # 🌐 Antonella Imarisio — Portfolio
 
-Hi! I'm Antonella Imarisio, currently studying the **Administrative Assistant diploma** at Pitman Training (Ireland).  
+Hi! I'm Antonella Imarisio, currently studying the **Administrative Assistant diploma**
 This is my **personal portfolio**, built with **React**, **TailwindCSS**, and **Vite**, to showcase my technical and organizational skills.
 
 🔗 **Live site**: [https://an-im.github.io/portfolio](https://an-im.github.io/portfolio)
