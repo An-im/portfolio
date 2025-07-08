@@ -17,6 +17,12 @@ const projects = [
     github: 'https://github.com/An-im/landing-page',
     demo: 'https://an-im.github.io/landing-page/',
   },
+  {
+    title: 'Virtual Workspace',
+    description: 'A minimalist productivity dashboard with a calendar, Pomodoro timer, daily to-do list, sticky notes, and progress summary. Built with React, Vite, and TailwindCSS.',
+    github: 'https://github.com/An-im/virtual-workspace',
+    demo: 'https://an-im.github.io/virtual-workspace/'
+  },
 ]
 
 export default function Projects() {
