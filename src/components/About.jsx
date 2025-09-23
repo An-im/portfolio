@@ -4,8 +4,7 @@ export default function About() {
       <div className="max-w-3xl mx-auto">
         <h2 className="text-3xl font-semibold text-gray-800 mb-6">About Me</h2>
         <p className="text-gray-700 text-lg">
-          I'm Antonella Imarisio, a student of the Administrative Assistant diploma at Pitman Training (Ireland).
-          I enjoy blending administrative work with creative and technical tools like HTML, CSS, and React to support modern workflows.
+          I'm Antonella Imarisio, a detail-oriented professional with experience in hospitality and a growing skillset in digital tools like HTML, CSS, and React. I enjoy combining organizational and creative abilities to support modern workflows, remote teamwork, and administrative tasks.
         </p>
       </div>
     </section>
