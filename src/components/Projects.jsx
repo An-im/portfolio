@@ -23,6 +23,12 @@ const projects = [
     github: 'https://github.com/An-im/virtual-workspace',
     demo: 'https://an-im.github.io/virtual-workspace/'
   },
+  {
+    title: 'Kitchen Journal',
+    description: 'Recipe manager web app with menu planning, seasonal ingredients, and PDF export. Highlights: intuitive UI, localStorage persistence, built with React, Vite, and TailwindCSS.',
+    github: 'https://github.com/An-im/kitchen-journal',
+    demo: 'https://an-im.github.io/kitchen-journal/'
+  }
 ]
 
 export default function Projects() {
