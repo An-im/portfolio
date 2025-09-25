@@ -1,5 +1,12 @@
 const projects = [
   {
+    title: 'AI Chat (Groq) — Proxy local',
+    description:
+      'Full-stack chat con streaming (Express proxy + React + Tailwind). Usa Groq free tier, clave segura vía backend. Deploy: Render + GitHub Pages.',
+    github: 'https://github.com/An-im/grok-app',
+    demo: 'https://an-im.github.io/grok-app/',
+  },
+  {
     title: 'Mini CRM',
     description: 'A simple client management app using HTML, CSS and localStorage. Includes a form and client list.',
     github: 'https://github.com/An-im/mini-crm',
